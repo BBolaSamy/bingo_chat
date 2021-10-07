@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "404453347875",
+    "project_id": "bingo-chat-c94fe",
+    "storage_bucket": "bingo-chat-c94fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404453347875:android:5ac11f635ee6f5cad8d796",
+        "android_client_info": {
+          "package_name": "com.example.bingo_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404453347875-afqndbqru54b010kf5pcq7kq8979veko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArbq-uK4Oa-ULeKDmD_nnsqp9gxbSWgvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404453347875-afqndbqru54b010kf5pcq7kq8979veko.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "404453347875-1qappkm3nltogfimq07op4g6rbcqqhl0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bingoChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
